@@ -25,11 +25,9 @@ Here is the implementations section formatted as a clean, professional table.
 
 ```bash
 # Clone the repository
-git clone https://github.com/amenallah01/Deep-Learning-Architectures.git
+git clone https://github.com/Krissaan-amen/Neural-Nets-From-First-Principles.git
 
 # Navigate to specific implementation
 cd Deep-Learning-Architectures/03_Sequence_Modeling
 ```
-
-Each module is self-contained with reproducible R Markdown (`.Rmd`) or Jupyter Notebooks.
 
