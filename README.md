@@ -8,7 +8,6 @@
 This repository houses a suite of deep learning implementations designed to bridge the gap between theoretical mathematics and practical application. It progresses from **low-level algorithmic construction**—implementing backpropagation and gradient descent without frameworks—to deploying **state-of-the-art architectures** like LSTMs and Variational Autoencoders (VAEs) using TensorFlow and Keras.
 
 The project demonstrates proficiency in both **R** and **Python** ecosystems, focusing on model interpretability, manifold learning, and generative AI.
-Here is the implementations section formatted as a clean, professional table.
 
 ## Technical Implementations
 
@@ -19,9 +18,7 @@ Here is the implementations section formatted as a clean, professional table.
 | **Sequence Modeling** | **RNNs & LSTMs** | -  Implementation of Long Short-Term Memory units for temporal dependencies.<br>-  Applied to time-series forecasting and sequence processing. |
 | **Generative AI** | **VAEs & Autoencoders** | -  Building Variational Autoencoders for probabilistic generation.<br>-  Non-linear dimensionality reduction and latent space representation. |
 
-
-
-##  Usage Guide
+## Usage Guide
 
 ```bash
 # Clone the repository
@@ -31,3 +28,22 @@ git clone https://github.com/Krissaan-amen/Neural-Nets-From-First-Principles.git
 cd Deep-Learning-Architectures/03_Sequence_Modeling
 ```
 
+## Future Projects
+
+This repository is actively evolving with planned implementations including:
+
+- **Transformer Architectures**: Self-attention mechanisms and large language model foundations
+- **Graph Neural Networks (GNNs)**: Node classification and graph-level prediction tasks
+- **Reinforcement Learning**: Deep Q-Networks and policy gradient methods
+- **Advanced Generative Models**: Diffusion models and GANs for high-fidelity image synthesis
+- **MLOps Integration**: Model deployment pipelines and production monitoring systems
+
+## Contact
+
+For questions, collaborations, or discussions about deep learning implementations:
+
+ **Email**: [amen.krissaan@gmail.com](mailto:amen.krissaan@gmail.com)
+
+---
+
+*Contributions and feedback are welcome. Please feel free to open issues or submit pull requests.*
