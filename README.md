@@ -17,7 +17,6 @@ Here is the implementations section formatted as a clean, professional table.
 | **Mathematical Foundations** | **Backpropagation (From Scratch)** | -  Raw implementation of Gradient Descent optimization.<br>-  Demonstration of the chain rule and weight updates without auto-diff libraries. |
 | **Computer Vision** | **CNNs & Manifold Untangling** | -  Analyzing how deep networks disentangle high-dimensional data in latent space.<br>-  Custom architecture design using Keras Functional API. |
 | **Sequence Modeling** | **RNNs & LSTMs** | -  Implementation of Long Short-Term Memory units for temporal dependencies.<br>-  Applied to time-series forecasting and sequence processing. |
-| **Transfer Learning** | **ResNet / VGG Fine-Tuning** | -  Leveraging pre-trained ImageNet weights for domain adaptation.<br>-  Strategies for feature extraction vs. full-network unfreezing. |
 | **Generative AI** | **VAEs & Autoencoders** | -  Building Variational Autoencoders for probabilistic generation.<br>-  Non-linear dimensionality reduction and latent space representation. |
 
 
