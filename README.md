@@ -22,7 +22,7 @@ The project demonstrates proficiency in both **R** and **Python** ecosystems, fo
 
 ```bash
 # Clone the repository
-git clone https://github.com/Krissaan-amen/Neural-Nets-From-First-Principles.git
+git clone https://github.com/Krissaan-amen/Neural_Nets_From_First_Principles.git
 
 # Navigate to specific implementation
 cd Deep-Learning-Architectures/03_Sequence_Modeling
